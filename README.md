@@ -1,6 +1,6 @@
 # La Danza del Tiempo: Descubre la Cronobiología Comparativa
 
-Instructores: 
+**Instructores:** <br/>
 Victor Eduardo Nieto Caballero (Princeton University) <br/>
 Lourdes Lavina Lavín López (Universidad de Guanajuato)
 
