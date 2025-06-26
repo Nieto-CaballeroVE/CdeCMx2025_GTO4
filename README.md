@@ -7,10 +7,10 @@ Lourdes Lavina Lavín López (Universidad de Guanajuato)
 Este repositorio de github contiene material para el club "La Danza del Tiempo: Descubre la Cronobiología Comparativa" dentro de la edicion 2025 de [Clubes de Ciencia Mexico]([www.riiaa.org](https://clubesdeciencia.mx/clubes-2025/)) en la sede Guanajuato.
 Este taller desarollara conceptos basicos de biologia comparativa con enfasis en ciclos circadianos. 
 
-Las practicas que realizaremos y los notebooks correspondientes son:
-1)
-2)
-3)
+Las practicas que realizaremos y los notebooks correspondientes son:<br/>
+#1)
+#2)
+#3)
 
 No te preocupes, no necesitas saber biologia o programacion para trabajar con estos datos, pero podria ser util. 
 
