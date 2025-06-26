@@ -8,9 +8,9 @@ Este repositorio de github contiene material para el club "La Danza del Tiempo: 
 Este taller desarollara conceptos basicos de biologia comparativa con enfasis en ciclos circadianos. 
 
 Las practicas que realizaremos y los notebooks correspondientes son:<br/>
-#1)
-#2)
-#3)
+## 1)
+## 2)
+## 3)
 
 No te preocupes, no necesitas saber biologia o programacion para trabajar con estos datos, pero podria ser util. 
 
