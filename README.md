@@ -1,7 +1,7 @@
 # La Danza del Tiempo: Descubre la Cronobiología Comparativa
 
 Instructores: 
-Víctor Eduardo Nieto Caballero (Princeton University) 
+Victor Eduardo Nieto Caballero (Princeton University) \n
 Lourdes Lavina Lavín López (Universidad de Guanajuato)
 
 Este repositorio de github contiene material para el club "Introduccion a Machine Learning y Deep Learning" dentro de la [Clubes de Ciencia Mexico 2025]([www.riiaa.org](https://clubesdeciencia.mx/clubes-2025/)).
