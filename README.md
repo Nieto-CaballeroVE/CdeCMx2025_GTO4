@@ -4,7 +4,7 @@
 Victor Eduardo Nieto Caballero (Princeton University) <br/>
 Lourdes Lavina Lavín López (Universidad de Guanajuato)
 
-Este repositorio de github contiene material para el club "Introduccion a Machine Learning y Deep Learning" dentro de la [Clubes de Ciencia Mexico 2025]([www.riiaa.org](https://clubesdeciencia.mx/clubes-2025/)).
+Este repositorio de github contiene material para el club "La Danza del Tiempo: Descubre la Cronobiología Comparativa" dentro de la edicion 2025 de [Clubes de Ciencia Mexico]([www.riiaa.org](https://clubesdeciencia.mx/clubes-2025/)) en la sede Guanajuato.
 Este taller desarollara conceptos basicos de biologia comparativa con enfasis en ciclos circadianos. 
 
 Las practicas que realizaremos y los notebooks correspondientes son:
