@@ -8,9 +8,9 @@ Este repositorio de github contiene material para el club "La Danza del Tiempo: 
 Este taller desarollara conceptos basicos de biologia comparativa con enfasis en ciclos circadianos. 
 
 Las practicas que realizaremos y los notebooks correspondientes son:<br/>
-## 1) Transcriptómica comparativa (ComputerLab1_SingleCellGenomics.ipynb)
-## 2) Prediccion de estructuras proteicas y alineamientos estructurales (ComputerLab2_AlphaFold_Foldseek.ipynb)
-## 3) Analisis de comportamiento (ComputerLab3_QuantitativeBehavior.ipynb)
+* 1) Transcriptómica comparativa (ComputerLab1_SingleCellGenomics.ipynb)
+* 2) Prediccion de estructuras proteicas y alineamientos estructurales (ComputerLab2_AlphaFold_Foldseek.ipynb)
+* 3) Analisis de comportamiento (ComputerLab3_QuantitativeBehavior.ipynb)
 
 No te preocupes, no necesitas saber biologia o programacion para trabajar con estos datos, pero podria ser util. 
 
