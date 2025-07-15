@@ -10,7 +10,7 @@ Este taller desarollara conceptos basicos de biología comparativa con enfasis e
 Las prácticas que realizaremos y los notebooks correspondientes son:<br/>
 * 1) Transcriptómica comparativa (ComputerLab1_SingleCellGenomics.ipynb)
 * 2) Predicción de estructuras proteicas y alineamientos estructurales (ComputerLab2_AlphaFold_Foldseek.ipynb)
-* 3) Análisis cuantitativo de comportamiento (ComputerLab3_QuantitativeBehavior.ipynb)
+* 3) Análisis cuantitativo de comportamiento (ComputerLab3_Behavior.ipynb)
 
 No te preocupes, no necesitas saber biología o programación para trabajar con estos datos, pero podría ser útil. 
 
